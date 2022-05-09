@@ -1,0 +1,35 @@
+* {
+    background-color: lightblue;
+    color: black;
+    font-size: 18 px;
+    font: sans-serif, "Times New Roman";
+}
+
+.odin-hone {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.beshbarmak-hone {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.pcs-hone {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.phd-hone {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#pone,
+#ptwo {
+    text-indent: 1rem;
+}
